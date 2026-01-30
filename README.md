@@ -27,3 +27,4 @@ IBM Digital Credentials
 IBM - Cours - SkillsBuild
 After you connect to the two IBM plateforms, you can go to a task and click the course link that you want to pass.
 You might have some login or access issues when trying to connect to a course. Thus, we advise you to create an account and to login to the two sites mentioned above using the Log in with Email method, as in the picture:
+
