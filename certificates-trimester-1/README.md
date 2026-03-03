@@ -1,4 +1,4 @@
-#0. Trimester 1 - Certificate: Introduction to Open Source
+# 0. Trimester 1 - Certificate: Introduction to Open Source
 
 When Can You Start?
 You can begin this course at the very start of your program at Holberton.
